@@ -22,6 +22,3 @@ setup(
     keywords="strelok, feature, selection, machine learning",
     python_requires='>=3.6',
 )
-
-
-ssassd
